@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 100 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
 
   <text
-    x="50"
-    y="65"
+    x="47"
+    y="78"
     text-anchor="middle"
     font-family="Georgia, 'Times New Roman', serif"
-    font-size="48"
-    font-weight="600"
-    letter-spacing="-4"
+    font-size="78"
+    font-weight="700"
+    letter-spacing="-12"
     fill="#000000">
     S
   </text>
 
   <text
-    x="58"
-    y="72"
+    x="59"
+    y="82"
     text-anchor="middle"
     font-family="Arial, Helvetica, sans-serif"
-    font-size="40"
-    font-weight="700"
+    font-size="68"
+    font-weight="900"
+    letter-spacing="-8"
     fill="#000000">
     A
   </text>
